@@ -20,7 +20,6 @@ After scraping the data, the dataset was prepared for analysis. The following st
 3. **Saving to CSV**: The cleaned and prepared data was saved in a CSV file for easy access and further analysis.
 
 ## Access the Data
-You can download it 
-For the original listings, visit the following page: [Houses Web Page]([your-houses-web-page-link](https://www.century21.com/real-estate/chicago-il/LCILCHICAGO/?beds=1&baths=1&minsqft=200))
+For the original listings, visit the following page: https://www.century21.com/real-estate/chicago-il/LCILCHICAGO/?beds=1&baths=1&minsqft=200))
 
 Feel free to review the code and data!
