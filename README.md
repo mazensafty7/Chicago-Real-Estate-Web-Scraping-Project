@@ -1,7 +1,7 @@
 # Chicago Real Estate Web Scraping Project
 
 ## Project Overview
-This project involves scraping real estate data from various listings in Chicago. The web scraper extracts essential details about houses, including the number of bedrooms, bathrooms, square footage, addresses, and prices. The data is collected from **135 pages**, resulting in a dataset containing **3,264 rows** and **5 columns**.
+This project involves scraping real estate data from various listings in Chicago using Beautiful Soup library. The web scraper extracts essential details about houses, including the number of bedrooms, bathrooms, square footage, addresses, and prices. The data is collected from **135 pages**, resulting in a dataset containing **3,264 rows** and **5 columns**.
 
 <img width="501" alt="1" src="https://github.com/user-attachments/assets/3fa3ddf6-1d0b-4c78-8548-2ea144f6f062">
 
